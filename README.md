@@ -8,3 +8,4 @@
 
 #### Classification in MLIB
 - Data transformations
+- Feature scaling and formatting
