@@ -9,3 +9,4 @@
 #### Classification in MLIB
 - Data transformations
 - Feature scaling and formatting
+- Revision of Classification models
