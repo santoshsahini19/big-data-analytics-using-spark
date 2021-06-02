@@ -1,4 +1,4 @@
-# Big Data Analytics using Spark
+# Big Data Analytics using PySpark
 
 #### In this repository,
 - I work on big data analytics using Pyspark
