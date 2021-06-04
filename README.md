@@ -10,3 +10,7 @@
 - Data transformations
 - Feature scaling and formatting
 - Revision of Classification models
+
+#### Natural Language Processing
+
+#### Computer Vision
