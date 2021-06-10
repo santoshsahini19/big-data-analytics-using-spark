@@ -12,5 +12,6 @@
 - Revision of Classification models
 
 #### Natural Language Processing
+- Data Preparation in NLP
 
 #### Computer Vision
